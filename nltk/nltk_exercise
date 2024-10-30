@@ -1,0 +1,11 @@
+from nltk import Tree
+
+# Cümle yapısını tanımlama (S: cümle, NP: özne, VP: yüklem)
+tree = Tree.fromstring("(S (NP John) (VP (V saw) (NP Mary)))")
+
+tree2=Tree.fromstring("(S (NP Selam  Nasılsın) (N Merhaba (Dünya Nasılsın  ) (Bu Deneme) (K Bu ( M NLTK))))")
+
+# Ağaç yapısını görselleştirme
+tree.pretty_print()
+
+tree2.pretty_print()

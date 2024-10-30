@@ -1,0 +1,101 @@
+brand_name,manufacturing_location,sales_location,product,price,quantity,production_year
+Goodwin-Parisian,Florida,Daytona Beach,Compactor,$7180.35,57,2012
+Buckridge Inc,Texas,Fort Worth,Excavator,$6203.70,64,1985
+Gerlach LLC,Pennsylvania,Erie,Backhoe,$5969.49,79,2013
+Thiel-Kuhlman,Florida,Boynton Beach,Excavator,$7888.18,67,2005
+"Block, Barrows and Bechtelar",Ohio,Akron,Dragline,$7303.51,84,2004
+Halvorson-Heidenreich,Georgia,Columbus,Excavator,$5296.67,60,2012
+Bartell-VonRueden,Michigan,Detroit,Bulldozer,$5194.29,81,1994
+Runolfsson LLC,Texas,San Antonio,Trencher,$5311.16,93,2005
+Bernier Inc,California,San Jose,Backhoe,$5112.70,67,1995
+Toy and Sons,Pennsylvania,Harrisburg,Dump Truck,$5111.07,95,2006
+"Rice, Hartmann and Schumm",Washington,Tacoma,Bulldozer,$6836.51,78,1999
+"Cormier, McGlynn and Schroeder",Massachusetts,New Bedford,Crawler,$6224.61,69,1996
+"Lebsack, Ruecker and Zieme",Pennsylvania,Philadelphia,Compactor,$5394.70,60,1985
+Bruen-Tremblay,Indiana,Fort Wayne,Trencher,$7356.99,92,1991
+Pollich-Stiedemann,Texas,El Paso,Backhoe,$5972.01,67,1994
+Gerhold-Emmerich,California,San Jose,Excavator,$5656.40,80,2006
+"DuBuque, Williamson and Zulauf",Texas,Houston,Grader,$7847.71,53,2004
+"Sanford, Predovic and Kautzer",Tennessee,Memphis,Grader,$6365.90,95,1989
+"Abbott, Haley and Dare",Texas,San Antonio,Dragline,$6664.76,81,2008
+"Stoltenberg, Oberbrunner and Heathcote",Idaho,Boise,Skid-Steer,$5553.60,86,2007
+Osinski-Langworth,Florida,Daytona Beach,Backhoe,$7423.59,93,2001
+Turcotte-Fahey,New York,New York City,Skid-Steer,$5862.38,76,2011
+McLaughlin Inc,District of Columbia,Washington,Compactor,$6763.80,61,2001
+Stroman Group,District of Columbia,Washington,Scraper,$7019.08,86,2007
+Johnston and Sons,North Dakota,Bismarck,Crawler,$6385.19,97,2001
+Powlowski-Erdman,Indiana,Evansville,Trencher,$6854.58,90,2006
+"Feil, Ward and Zboncak",Missouri,Saint Louis,Backhoe,$7814.52,61,2004
+"Johnston, Terry and Gulgowski",California,Long Beach,Excavator,$5470.47,91,2013
+Brakus Group,Texas,Houston,Compactor,$5972.34,97,2002
+"Reichel, Schaefer and Hills",California,Glendale,Compactor,$5470.69,68,1996
+Tremblay and Sons,Virginia,Alexandria,Excavator,$7346.91,93,2002
+Batz-Morar,District of Columbia,Washington,Dragline,$6592.03,74,2011
+"Fadel, Terry and Satterfield",Montana,Missoula,Dump Truck,$6921.25,95,2010
+"Harvey, Cummerata and Rohan",Minnesota,Monticello,Bulldozer,$7748.85,94,1995
+Cruickshank and Sons,Florida,Miami,Trencher,$5511.51,51,1997
+"Tromp, Zieme and Walsh",Massachusetts,Springfield,Skid-Steer,$7560.38,94,2003
+"Hirthe, Marquardt and Bashirian",District of Columbia,Washington,Crawler,$7922.81,89,1999
+"Jaskolski, Wisozk and Lemke",Louisiana,New Orleans,Backhoe,$5922.23,85,2002
+Gusikowski LLC,New York,Buffalo,Dump Truck,$7047.51,70,1990
+Bashirian-Lesch,Texas,Houston,Grader,$7229.40,65,2012
+Kertzmann Group,Missouri,Kansas City,Trencher,$7595.35,53,2006
+Ernser LLC,Florida,Winter Haven,Compactor,$6284.79,93,1997
+Brakus-Weissnat,Kansas,Topeka,Skid-Steer,$7196.17,68,1998
+DuBuque LLC,California,San Francisco,Dragline,$5244.77,96,2004
+"Hackett, Ratke and Jaskolski",Missouri,Kansas City,Scraper,$5653.37,78,2002
+"Yost, Miller and Daugherty",New York,Schenectady,Backhoe,$6697.96,55,2006
+Stehr Inc,Arizona,Phoenix,Compactor,$5096.05,59,1991
+Cruickshank-Spinka,Virginia,Fairfax,Bulldozer,$6945.31,76,2002
+Kuhic-Gorczany,Virginia,Lynchburg,Dump Truck,$7712.65,57,1994
+"Pouros, Feest and Corkery",Ohio,Toledo,Backhoe,$6234.04,84,2007
+Kutch Inc,New Jersey,Jersey City,Trencher,$6775.42,69,2002
+Batz Group,Ohio,Canton,Scraper,$7266.45,55,2008
+"O'Kon, Reinger and Dicki",Indiana,Gary,Crawler,$5462.70,51,2009
+"Raynor, Hintz and Wyman",Oregon,Portland,Bulldozer,$5017.44,50,2010
+Crist-Boyer,Georgia,Duluth,Dragline,$7501.27,83,2009
+Cummings-Becker,Alabama,Birmingham,Backhoe,$5150.25,77,1993
+Langosh LLC,Missouri,Saint Louis,Backhoe,$5349.79,75,2008
+Kihn Inc,Wisconsin,Milwaukee,Skid-Steer,$7240.06,57,1983
+Zulauf and Sons,Nevada,North Las Vegas,Crawler,$7339.12,82,2002
+Zieme LLC,Florida,Orlando,Crawler,$5478.50,61,1996
+Kerluke-Lang,Pennsylvania,Pittsburgh,Dragline,$7932.49,57,1990
+"Jones, Emard and Dibbert",Missouri,Kansas City,Dump Truck,$6372.62,97,1990
+Kerluke Group,California,Fresno,Grader,$6333.92,79,2008
+Green-Abernathy,New York,Jamaica,Scraper,$5092.86,75,1993
+Kuvalis-Auer,Florida,Jacksonville,Dragline,$5796.04,84,1994
+"West, Turcotte and Gutmann",Texas,El Paso,Dragline,$5486.42,57,1999
+Nolan LLC,Oklahoma,Tulsa,Dump Truck,$5155.32,64,2010
+"Pfannerstill, Fadel and Herzog",Indiana,Fort Wayne,Excavator,$6043.94,83,2005
+McKenzie LLC,Maryland,Baltimore,Bulldozer,$6160.54,96,1992
+"Miller, Balistreri and Steuber",Nebraska,Lincoln,Excavator,$7805.17,51,2011
+"Graham, Stracke and Ritchie",Virginia,Virginia Beach,Scraper,$7287.11,99,2000
+Wiegand LLC,California,Sacramento,Compactor,$6063.91,97,2005
+Schamberger-Paucek,Missouri,Lees Summit,Trencher,$5180.75,53,2000
+"Wilderman, Sawayn and Mraz",California,Fullerton,Backhoe,$7936.73,84,2003
+Shanahan LLC,Ohio,Cincinnati,Grader,$5381.21,96,2007
+"Renner, Ortiz and Jones",California,San Luis Obispo,Dragline,$5924.21,80,2007
+"Farrell, Kunde and Kilback",New York,New York City,Dump Truck,$6411.08,100,2003
+Marquardt Group,Virginia,Richmond,Skid-Steer,$6571.57,76,2004
+Dibbert Inc,Oklahoma,Tulsa,Dump Truck,$5127.82,54,2001
+Steuber LLC,Wisconsin,Green Bay,Skid-Steer,$7235.95,79,1995
+Kassulke-Langworth,Massachusetts,Boston,Bulldozer,$7652.21,92,2010
+Ullrich and Sons,Alabama,Montgomery,Grader,$6880.13,64,2008
+Willms LLC,North Carolina,Charlotte,Bulldozer,$7060.55,78,2004
+McDermott LLC,Texas,Fort Worth,Dump Truck,$6487.13,59,1987
+"Grant, Hessel and Dickinson",New Jersey,Newark,Bulldozer,$7458.53,67,2003
+West-Will,Virginia,Norfolk,Dragline,$6905.57,54,2008
+Russel-Sawayn,Washington,Olympia,Trencher,$6156.38,80,1962
+Gutmann-Dickens,Texas,Dallas,Crawler,$6894.44,75,2005
+Miller-Von,Colorado,Colorado Springs,Bulldozer,$6785.28,81,1988
+"Terry, Hirthe and Wyman",West Virginia,Huntington,Grader,$5483.12,82,2008
+Ebert LLC,California,Los Angeles,Dump Truck,$7137.54,91,2006
+"Wisozk, Ernser and Ledner",Georgia,Atlanta,Grader,$5007.42,52,1995
+Yost-Champlin,Florida,Hollywood,Dump Truck,$5000.59,57,2006
+"Powlowski, Welch and Miller",Texas,Houston,Compactor,$7327.58,97,1998
+Fritsch-Fahey,Colorado,Colorado Springs,Trencher,$7865.15,70,1967
+"Ullrich, Ruecker and Pouros",Virginia,Roanoke,Dump Truck,$7097.66,83,2006
+"McKenzie, Nienow and Hickle",Connecticut,Stamford,Scraper,$5848.30,64,2007
+Predovic Inc,California,Los Angeles,Compactor,$7026.03,68,2009
+Weissnat-Stiedemann,Texas,Tyler,Backhoe,$7166.16,81,2000
+Thompson-Beahan,California,Fresno,Crawler,$7725.55,61,1995

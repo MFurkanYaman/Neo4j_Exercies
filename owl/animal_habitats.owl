@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://test.org/onto.owl"
+         xmlns="http://test.org/onto.owl#">
+
+<owl:Ontology rdf:about="http://test.org/onto.owl"/>
+
+<owl:ObjectProperty rdf:about="#feeds_on">
+  <rdfs:domain rdf:resource="#Animal"/>
+  <rdfs:range rdf:resource="#Animal"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#lives_in">
+  <rdfs:domain rdf:resource="#Animal"/>
+  <rdfs:range rdf:resource="#Habitat"/>
+</owl:ObjectProperty>
+
+<owl:Class rdf:about="#Animal">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Cat">
+  <rdfs:subClassOf rdf:resource="#Animal"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Bird">
+  <rdfs:subClassOf rdf:resource="#Animal"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Habitat">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Forest">
+  <rdfs:subClassOf rdf:resource="#Habitat"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Lake">
+  <rdfs:subClassOf rdf:resource="#Habitat"/>
+</owl:Class>
+
+<owl:NamedIndividual rdf:about="#whiskers">
+  <rdf:type rdf:resource="#Cat"/>
+  <feeds_on rdf:resource="#sparrow"/>
+  <lives_in rdf:resource="#amazon_forest"/>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#sparrow">
+  <rdf:type rdf:resource="#Bird"/>
+  <lives_in rdf:resource="#great_lake"/>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#amazon_forest">
+  <rdf:type rdf:resource="#Forest"/>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#great_lake">
+  <rdf:type rdf:resource="#Lake"/>
+</owl:NamedIndividual>
+
+
+</rdf:RDF>
